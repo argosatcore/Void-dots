@@ -1,0 +1,22 @@
+#French multiwords file used for chunking
+Ban Ki-moon	Z e sp
+Johnny Cash	Z e sp
+Bugs Bunny	Z e sp
+Marvel Comics	Z e sp
+Marvel DC	Z e sp
+Hydro-Québec DC	Z e sp
+en dehors	A
+un tiens vaut mieux que deux tu l'auras	A
+interface utilisateur	N f s
+au premier abord	A
+de prime abord	A
+à l'origine	A
+d'abord	A
+Eugénie Grandet	Z f s
+brosse à dents	N f s
+brosses à dents	N f p
+de lèse-nation	J e sp
+de toute évidence	A
+la bémol	N m s
+mi bémol	N m s
+sol bémol	N m s

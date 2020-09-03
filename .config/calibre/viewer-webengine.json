@@ -1,0 +1,32 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray", 
+    "__value__": "AdnQywADAAAAAAOUAAAAKgAABUYAAALwAAADlAAAACoAAAVGAAAC8AAAAAAAAAAABVYAAAOUAAAAKgAABUYAAALw"
+  }, 
+  "main_window_state": {
+    "__class__": "bytearray", 
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAWAHMAZQBhAHIAYwBoAC0AZABvAGMAawAAAAAA/////wAAAJcA////+wAAABAAdABvAGMALQBkAG8AYwBrAAAAAAD/////AAAAiAD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////+wAAABYAbABvAG8AawB1AHAALQBkAG8AYwBrAAAAAAD/////AAAAYwD////7AAAAHABiAG8AbwBrAG0AYQByAGsAcwAtAGQAbwBjAGsAAAAAAP////8AAADsAP////sAAAAcAGkAbgBzAHAAZQBjAHQAbwByAC0AZABvAGMAawAAAAAA/////wAAABMA////AAABswAAAscAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  }, 
+  "old_prefs_migrated": true, 
+  "session_data": {
+    "controls_help_shown_count": 1, 
+    "standalone_font_settings": {}, 
+    "standalone_misc_settings": {
+      "remember_last_read": true, 
+      "remember_window_geometry": false, 
+      "save_annotations_in_ebook": true, 
+      "singleinstance": false
+    }, 
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Que son las revoluciones cientificas (1987"
+        ], 
+        "key": "/home/carlos/Biblioteca de calibre/Que son las revoluciones cientificas (1987)/Kuhn, Thomas S_ (2)/Kuhn, Thomas S_ - Que son las revoluciones cientificas (1987.pdf", 
+        "pathtoebook": "/home/carlos/Biblioteca de calibre/Que son las revoluciones cientificas (1987)/Kuhn, Thomas S_ (2)/Kuhn, Thomas S_ - Que son las revoluciones cientificas (1987.pdf", 
+        "timestamp": "2020-08-01T19:58:43.967Z", 
+        "title": "Kuhn, Thomas S "
+      }
+    ]
+  }
+}

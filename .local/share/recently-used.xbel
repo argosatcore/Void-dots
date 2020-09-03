@@ -1,0 +1,1791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///usr/share/xbps.d/00-repository-main.conf" added="2020-08-01T07:35:08Z" modified="2020-08-18T02:29:25Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T02:29:25Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/i3/config" added="2020-08-01T09:42:49Z" modified="2020-08-10T03:29:52Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-10T03:29:52Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.bashrc" added="2020-08-01T20:03:56Z" modified="2020-08-09T22:51:10Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.4" exec="&apos;soffice %u&apos;" modified="2020-08-01T20:03:57Z" count="2"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-09T22:51:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/i3/backup%20config" added="2020-08-01T22:54:28Z" modified="2020-08-09T06:44:30Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-09T06:44:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.p/Lesbian%20Group%20Fuck%20Fest%20-%20Kristen%20Scott,%20Kylie%20Page,%20Riley%20Nixon-ph5c7e8a15cf510.mp4" added="2020-08-02T07:19:43Z" modified="2020-08-05T03:30:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2020-08-05T03:30:12Z" count="345"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/handbook.pdf" added="2020-08-02T07:30:24Z" modified="2020-08-18T02:27:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-02T07:30:25Z" count="2"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-18T02:27:21Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.originalbashrc" added="2020-08-05T03:44:21Z" modified="2020-08-05T03:44:21Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-05T03:44:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.lesshst" added="2020-08-05T03:44:48Z" modified="2020-08-05T03:44:48Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-05T03:44:48Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.xinitrc" added="2020-08-05T03:45:02Z" modified="2020-08-24T01:40:35Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-24T01:40:35Z" count="10"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/X11/xinit/xinitrc" added="2020-08-05T03:47:22Z" modified="2020-08-05T03:47:22Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-05T03:47:22Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/1620961_809855362364068_1622744841_n.jpg" added="2020-08-05T06:24:18Z" modified="2020-08-05T06:24:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-05T06:24:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/Kuhn" added="2020-08-09T07:18:00Z" modified="2020-08-14T08:59:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-14T08:59:16Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.xsession" added="2020-08-09T21:01:17Z" modified="2020-08-24T01:41:19Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-24T01:41:19Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/xlunch/entries.dsv" added="2020-08-09T21:18:20Z" modified="2020-08-09T21:37:47Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-09T21:37:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/xlunch/config" added="2020-08-09T21:37:24Z" modified="2020-08-09T22:48:31Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-09T22:48:31Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/xlunch/entries.dsv" added="2020-08-09T21:47:00Z" modified="2020-08-09T22:09:06Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-09T22:09:06Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/examples/picom/picom.sample.conf" added="2020-08-10T03:22:35Z" modified="2020-08-10T03:22:35Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-10T03:22:35Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/picom/picom.conf" added="2020-08-10T03:41:38Z" modified="2020-08-13T18:49:20Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-13T18:49:20Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Biblioteca%20de%20calibre/Que%20son%20las%20revoluciones%20cientificas%20(1987)/Kuhn,%20Thomas%20S_%20(2)/Kuhn,%20Thomas%20S_%20-%20Que%20son%20las%20revoluciones%20cientificas%20(1987.pdf" added="2020-08-13T09:44:58Z" modified="2020-08-13T09:44:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-13T09:44:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-13_03-53-47.png" added="2020-08-13T09:53:50Z" modified="2020-08-13T09:53:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-13T09:53:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-13_03-57-37.png" added="2020-08-13T09:57:41Z" modified="2020-08-13T09:57:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-13T09:57:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Mojave-dark.tar.xz" added="2020-08-13T18:59:20Z" modified="2020-08-13T18:59:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-13T18:59:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/WhiteSur-dark-20200728040202.tar.xz" added="2020-08-13T19:00:21Z" modified="2020-08-13T19:00:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-13T19:00:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/neofetch/config.conf" added="2020-08-13T19:27:26Z" modified="2020-08-13T19:27:26Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-13T19:27:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-13_23-55-00.png" added="2020-08-14T05:55:07Z" modified="2020-08-14T05:55:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-14T05:55:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/xfce4-terminal-colorschemes-master.zip" added="2020-08-14T06:39:24Z" modified="2020-08-14T06:39:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-14T06:39:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.local/share/xfce4/terminal/colorschemes/gruvbox-dark.theme" added="2020-08-14T06:40:45Z" modified="2020-08-14T06:40:45Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-14T06:40:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/angrysearch/angrysearch.conf" added="2020-08-14T08:47:31Z" modified="2020-08-14T08:47:31Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-14T08:47:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/albert/albert.conf" added="2020-08-14T09:36:19Z" modified="2020-08-14T09:36:19Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-14T09:36:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/Kuhn.pdf" added="2020-08-14T09:38:42Z" modified="2020-08-29T03:35:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-29T03:35:54Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/xbps.d/00-repository-main.conf" added="2020-08-18T02:05:34Z" modified="2020-08-18T02:32:23Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T02:32:23Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/xbps.d/10-repository-nonfree.conf" added="2020-08-18T02:30:00Z" modified="2020-08-18T02:32:00Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-18T02:32:00Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/zoom_x86_64.tar.xz" added="2020-08-18T08:47:43Z" modified="2020-08-18T08:47:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-18T08:47:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/orgfile.odt" added="2020-08-19T00:35:39Z" modified="2020-08-24T01:54:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-08-24T01:54:04Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/adwaita-plus-master.zip" added="2020-08-19T02:09:19Z" modified="2020-08-19T02:09:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-19T02:09:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Nextwaita-dark-2.2.tar.xz" added="2020-08-19T02:17:59Z" modified="2020-08-19T02:18:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-19T02:18:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/orgfile.pdf" added="2020-08-19T02:24:36Z" modified="2020-08-25T01:48:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-25T01:48:03Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/doc/void/handbook.pdf" added="2020-08-19T05:15:42Z" modified="2020-09-02T08:14:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-09-02T08:14:38Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/handbook.pdf" added="2020-08-19T05:26:16Z" modified="2020-08-25T08:51:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-08-19T05:26:16Z" count="1"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-25T08:51:26Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Helve" added="2020-08-19T05:42:41Z" modified="2020-08-19T05:42:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-19T05:42:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Void%20Handbook%20cover.pdf" added="2020-08-19T06:09:24Z" modified="2020-08-19T07:12:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-19T07:12:54Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/VoidHandbookCover.pdf" added="2020-08-19T06:27:13Z" modified="2020-08-19T07:47:06Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-19T07:47:06Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/90717885-e042ac80-e26d-11ea-8ca1-225120cae228.png" added="2020-08-20T06:48:53Z" modified="2020-08-20T06:48:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-20T06:48:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/90711579-593a0800-e25e-11ea-8390-648fcc9df5fd.png" added="2020-08-20T06:49:02Z" modified="2020-08-20T06:49:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-20T06:49:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-20_22-06-55.png" added="2020-08-21T04:06:59Z" modified="2020-08-21T04:06:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-21T04:06:59Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-20_22-10-02.png" added="2020-08-21T04:10:04Z" modified="2020-08-21T04:10:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-21T04:10:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/full" added="2020-08-21T04:11:40Z" modified="2020-08-21T04:11:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-21T04:11:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Vi3xfcess.png" added="2020-08-21T04:16:27Z" modified="2020-08-21T04:16:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-21T04:16:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Vi3xfcess1.png" added="2020-08-21T04:22:11Z" modified="2020-08-24T01:12:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-24T01:12:31Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/fstab" added="2020-08-23T21:57:09Z" modified="2020-08-23T21:57:09Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-23T21:57:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/rc.local" added="2020-08-24T02:06:34Z" modified="2020-08-24T02:08:10Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-24T02:08:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/rc.conf" added="2020-08-24T02:07:49Z" modified="2020-08-24T02:07:49Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-24T02:07:49Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///etc/runit/2" added="2020-08-24T02:09:13Z" modified="2020-08-24T02:09:13Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-24T02:09:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.local/share/notes/Notas/Notas" added="2020-08-25T03:12:46Z" modified="2020-08-25T03:12:46Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-25T03:12:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/void-live-x86_64-20191109-xfce.iso" added="2020-08-27T02:06:12Z" modified="2020-08-31T05:45:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-31T05:45:24Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Escritura%20Final.docx" added="2020-08-28T08:35:08Z" modified="2020-08-28T08:42:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.openxmlformats-officedocument.wordprocessingml.document"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-28T08:35:09Z" count="2"/>
+          <bookmark:application name="LibreOffice 7.0" exec="&apos;soffice %u&apos;" modified="2020-08-28T08:42:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Escritura%20Final.pdf" added="2020-08-28T08:37:20Z" modified="2020-09-02T22:48:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T05:30:31Z" count="4"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-09-02T22:48:34Z" count="9"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-28_17-10-45.png" added="2020-08-28T23:10:50Z" modified="2020-08-28T23:10:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-28T23:10:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Trident-netinstall-x86_64.iso" added="2020-08-28T23:12:59Z" modified="2020-08-29T03:36:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T02:03:59Z" count="4"/>
+          <bookmark:application name="balena-etcher-electron.bin" exec="&apos;balena-etcher-electron.bin %u&apos;" modified="2020-08-29T03:36:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/Escritura%20Final.pdf" added="2020-08-29T00:45:33Z" modified="2020-09-02T06:05:49Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-09-02T06:05:49Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/balena-etcher-electron-1.5.106-linux-x64.zip" added="2020-08-29T01:55:36Z" modified="2020-08-29T01:56:07Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T01:56:07Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/archlinux-2020.08.01-x86_64.iso" added="2020-08-29T02:00:05Z" modified="2020-08-29T02:04:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T02:04:20Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/void-live-x86_64-musl-20191109-xfce.iso" added="2020-08-29T04:10:04Z" modified="2020-08-29T04:17:35Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T04:17:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/Script%20para%20quemar%20isos%20a%20llave%20maya.txt" added="2020-08-29T04:38:23Z" modified="2020-08-30T21:56:05Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-30T21:56:05Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/void-live-x86_64-musl-20181111-xfce.iso" added="2020-08-29T05:12:13Z" modified="2020-08-29T05:19:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T05:19:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Hegel-%C2%BFQui%C3%A9n%20piensa%20abstractamente%20.pdf" added="2020-08-29T06:29:53Z" modified="2020-08-29T21:27:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T06:29:53Z" count="2"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-29T21:27:08Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Burkhardt,Jacob_%20La%20Cultura%20del%20Renacimiento%20en%20Italia-20200829T063156Z-001.zip" added="2020-08-29T06:31:46Z" modified="2020-08-29T06:31:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T06:31:46Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Burkhardt,Jacob_%20La%20Cultura%20del%20Renacimiento%20en%20Italia/Burkhardt,Jacob_%20La%20Cultura%20del%20Renacimiento%20en%20Italia.tex" added="2020-08-29T06:33:41Z" modified="2020-08-29T21:27:38Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-29T21:27:38Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/%C2%BFQui%C3%A9n%20piensa%20abstractamente%3F_Hegel.pdf" added="2020-08-29T06:46:50Z" modified="2020-08-29T06:46:50Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-29T06:46:50Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/Burkhardt,Jacob_%20La%20Cultura%20del%20Renacimiento%20en%20Italia.pdf" added="2020-08-29T06:55:40Z" modified="2020-08-29T06:55:40Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-29T06:55:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/%C2%BFQui%C3%A9n%20piensa%20abstractamente%3F/%C2%BFQui%C3%A9n%20piensa%20abstractamente%3F_Hegel.tex" added="2020-08-29T07:01:00Z" modified="2020-08-29T07:01:00Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-29T07:01:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Documentos/%C2%BFQui%C3%A9n%20piensa%20abstractamente%3F/%C2%BFQui%C3%A9n%20piensa%20abstractamente%3F_Hegel.pdf" added="2020-08-29T07:02:53Z" modified="2020-08-31T02:17:20Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-31T02:17:20Z" count="20"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="trash:///Burkhardt,Jacob_%20La%20Cultura%20del%20Renacimiento%20en%20Italia.pdf" added="2020-08-29T07:12:00Z" modified="2020-08-29T07:12:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-08-29T07:12:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/I3_window_manager_logo.svg" added="2020-08-29T19:05:20Z" modified="2020-08-29T19:05:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-29T19:05:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.vim/pluged/gruvbox/gruvbox_256palette.sh" added="2020-08-29T20:01:20Z" modified="2020-08-29T20:01:20Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-08-29T20:01:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-29_18-58-32.png" added="2020-08-30T00:58:34Z" modified="2020-08-30T00:58:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-30T00:58:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/El_jard%C3%ADn_de_las_Delicias,_de_El_Bosco.jpg" added="2020-08-30T02:28:38Z" modified="2020-08-30T02:28:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T02:28:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Hieronymus_Bosch_-_The_Garden_of_Earthly_Delights_-_The_exterior_(shutters).jpg" added="2020-08-30T02:28:47Z" modified="2020-08-30T02:28:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T02:28:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/04-FIG-7-4-1-1500x750.jpg" added="2020-08-30T02:53:09Z" modified="2020-08-30T02:53:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T02:53:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-29_20-54-03.png" added="2020-08-30T02:54:04Z" modified="2020-08-30T02:54:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-30T02:54:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/02-Sketches-from-the-Trattato-di-Architettura_Francesco-di-Giorgio-Martini-1470.jpg" added="2020-08-30T02:54:43Z" modified="2020-08-30T02:54:43Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T02:54:43Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-29_22-54-11.png" added="2020-08-30T04:54:13Z" modified="2020-08-30T04:54:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-30T04:54:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Captura%20de%20pantalla_2020-08-29_23-06-53.png" added="2020-08-30T05:06:57Z" modified="2020-08-30T05:06:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-08-30T05:06:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/void-live-xfce-unofficial-x86_64-5.7.16_1-20200829.iso" added="2020-08-30T06:03:52Z" modified="2020-08-30T06:10:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:10:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/1906%20Water%20Lilies%20oil%20on%20canvas.jpg" added="2020-08-30T06:21:24Z" modified="2020-08-30T06:21:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:21:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Water%20Lilies%20by%20Claude%20Monet.jpg" added="2020-08-30T06:21:43Z" modified="2020-08-30T06:21:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:21:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Claude_Monet_-_Water_Lilies,_1917-1919.JPG" added="2020-08-30T06:22:37Z" modified="2020-08-30T06:22:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:22:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/water-lilies-1919-2.jpg" added="2020-08-30T06:22:43Z" modified="2020-08-30T06:22:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:22:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Edouard_Manet_053.jpg" added="2020-08-30T06:24:00Z" modified="2020-08-30T06:24:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:24:00Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Edouard_Manet,_A_Bar_at_the_Folies-Berg%C3%A8re.jpg" added="2020-08-30T06:24:14Z" modified="2020-08-30T06:24:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:24:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/MANET_Le_Christ_Jardinier.jpg" added="2020-08-30T06:24:25Z" modified="2020-08-30T06:24:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:24:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/the-promenade-at-argenteuil.jpg" added="2020-08-30T06:24:47Z" modified="2020-08-30T06:24:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:24:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/1888%20View%20of%20Antibes%20from%20the%20Plateau%20Notre-Dame%20oil%20on%20canvas%2065.1%20x%2092.4%20cm%20Private%20Collection.jpg" added="2020-08-30T06:25:13Z" modified="2020-08-30T06:25:13Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:25:13Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/1890c%20Poppy%20Field,%20Giverny%20oil%20on%20canvas%2060.5%20x%2092%20cm%20Hermitage,%20St.%20Petersburg.jpg" added="2020-08-30T06:25:27Z" modified="2020-08-30T06:25:27Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:25:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Claude_Monet_038.jpg" added="2020-08-30T06:26:00Z" modified="2020-08-30T06:26:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:26:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/1877%20Saint-Lazare%20Station%20oil%20on%20canvas%2075%20x%20105%20cm%20Muse%CC%81e%20d&apos;Orsay,%20Paris.jpg" added="2020-08-30T06:27:01Z" modified="2020-08-30T06:27:02Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:27:02Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Claude_Monet,_Nymph%C3%A9as_(1905).jpg" added="2020-08-30T06:27:08Z" modified="2020-08-30T06:27:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:27:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/%C3%89douard_Manet,_The_Rue_Mosnier_with_Flags,_1878.jpg" added="2020-08-30T06:27:15Z" modified="2020-08-30T06:27:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:27:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/08resur1.jpg" added="2020-08-30T06:46:42Z" modified="2020-08-30T06:47:26Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:47:26Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/3anton05.jpg" added="2020-08-30T06:47:58Z" modified="2020-08-30T06:47:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:47:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Piero,_proiezioni_di_una_testa_scorciata_dal_de_prospectiva_pingendi,_ante_1482,_milano,_biblioteca_ambrosiana.jpg" added="2020-08-30T06:49:33Z" modified="2020-08-30T06:49:34Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:49:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Piero_della_Francesca_-_Baptism_of_Christ_-_WGA17595.jpg" added="2020-08-30T06:49:48Z" modified="2020-08-30T06:49:48Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:49:48Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Piero,_flagellazione_01.jpg" added="2020-08-30T06:51:02Z" modified="2020-08-30T06:51:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:51:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/ea8b39271c4cd20cf37d66489e0e42a8.jpg" added="2020-08-30T06:51:41Z" modified="2020-08-30T06:51:41Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:51:41Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/metalocus-dogma-01-1090.jpg" added="2020-08-30T06:56:54Z" modified="2020-08-30T06:56:54Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:56:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/c8_PV-3_FINAL.jpg" added="2020-08-30T06:58:14Z" modified="2020-08-30T06:58:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:58:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/9b792f581a57de703503ce40ecbd5e31.jpg" added="2020-08-30T06:58:56Z" modified="2020-08-30T06:58:56Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:58:56Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/20.jpg" added="2020-08-30T06:59:46Z" modified="2020-08-30T06:59:47Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T06:59:47Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/9b814f163f33dcbefadfa4a712c625b6.jpg" added="2020-08-30T07:00:18Z" modified="2020-08-30T07:00:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:00:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/PVA-PIER-VITTORIO-AURELI-THE-MARRIAGE-OF-REASON-AND-SQUALOR-BETTS-PROJECT-21.jpg.foto.rmedium.jpg" added="2020-08-30T07:00:25Z" modified="2020-08-30T07:00:25Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:00:25Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/PIER_VITTORIO_AURELI_Untitled_13_from_the_series_THE_MARRIAGE_OF_REASON_AND_SQUALOR_2001-2014_Ink_on_paper_50x50CM.jpg" added="2020-08-30T07:00:29Z" modified="2020-08-30T07:00:30Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:00:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/tumblr_inline_nmrbyzT9Ke1rc58s2_1280.jpg" added="2020-08-30T07:00:38Z" modified="2020-08-30T07:00:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:00:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/PIER_VITTORIO_AURELI_Untitled_29_from_the_series_THE_MARRIAGE_OF_REASON_AND_SQUALOR_2001-2014_Ink_on_paper_50x50CM.jpg" added="2020-08-30T07:01:09Z" modified="2020-08-30T07:01:09Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:01:09Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/tumblr_nthdd5VICT1unwuyco2_r1_1280.jpg" added="2020-08-30T07:01:44Z" modified="2020-08-30T07:01:44Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:01:44Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/f33b72909be2190405a882f730cc8600.jpg" added="2020-08-30T07:02:03Z" modified="2020-08-30T07:02:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:02:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/04.jpg" added="2020-08-30T07:02:18Z" modified="2020-08-30T07:02:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:02:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/PVA-04.jpg" added="2020-08-30T07:02:37Z" modified="2020-08-30T07:02:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:02:37Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/C5xAiB5WMAEEnxv.jpg" added="2020-08-30T07:02:58Z" modified="2020-08-30T07:02:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:02:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Ivonne-Santoyo-Orozco-Ivonne-Santoyo-Orozco_IMAGE-1_domenico-fontana.jpg" added="2020-08-30T07:03:17Z" modified="2020-08-30T07:03:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:03:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/pier_vittorio.jpg" added="2020-08-30T07:06:17Z" modified="2020-08-30T07:06:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:06:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/00.jpg" added="2020-08-30T07:06:24Z" modified="2020-08-30T07:06:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:06:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/2013_02_27_Pier%20Vittorio%20Aurelli_talk.mp3" added="2020-08-30T07:07:47Z" modified="2020-09-02T06:22:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="audio/mpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:07:57Z" count="2"/>
+          <bookmark:application name="parole" exec="&apos;parole %u&apos;" modified="2020-09-02T06:22:38Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/dd81bc4cd72c08989b6f76e5ce4193fc.jpg" added="2020-08-30T07:07:57Z" modified="2020-08-30T07:07:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:07:58Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/Aurelli-2068.3-2560x2648.width-2000.jpg" added="2020-08-30T07:08:04Z" modified="2020-08-30T07:08:05Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:08:05Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/d3df872a94e9519cde0f9dcb871ec790.jpg" added="2020-08-30T07:08:22Z" modified="2020-08-30T07:08:22Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:08:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/dogma-passages.jpg" added="2020-08-30T07:09:14Z" modified="2020-08-30T07:09:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:09:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/2017_Tarlan-Aylin_image-01_edited-for-website-1024x1024.jpg" added="2020-08-30T07:10:08Z" modified="2020-08-30T07:10:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:10:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/2017_Tarlan-Aylin_image-01_edited-for-website-1024x1024.jpg" added="2020-08-30T07:12:18Z" modified="2020-08-30T07:12:18Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:12:18Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/jenny.hill-jenny1.jpg" added="2020-08-30T07:13:15Z" modified="2020-08-30T07:13:15Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:13:15Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/page_14.jpg" added="2020-08-30T07:15:19Z" modified="2020-08-30T07:15:19Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:15:19Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/dogma_08.jpg,2000x2000.jpeg" added="2020-08-30T07:16:01Z" modified="2020-08-30T07:16:01Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:16:01Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/6555505e317b970cc2e78ce82fd34656.jpg" added="2020-08-30T07:16:16Z" modified="2020-08-30T07:16:17Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:16:17Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/umberto-bellardi-001.jpg" added="2020-08-30T07:17:14Z" modified="2020-08-30T07:17:14Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T07:17:14Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/void-live-x86_64-20181111-xfce.iso" added="2020-08-30T21:39:18Z" modified="2020-08-30T21:52:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-30T21:52:51Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/ventoy-1.0.08b2-linux.tar.gz" added="2020-08-31T02:41:52Z" modified="2020-08-31T02:41:53Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-31T02:41:53Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/ventoy-1.0.20-linux.tar.gz" added="2020-08-31T02:43:31Z" modified="2020-08-31T02:43:31Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-31T02:43:31Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/void-live-x86_64-20191109-xfce.iso" added="2020-08-31T02:50:07Z" modified="2020-08-31T03:01:59Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-08-31T03:01:59Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/La_internacionalizacion_del_arte_contemp.pdf" added="2020-09-01T03:43:41Z" modified="2020-09-02T05:37:10Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-01T03:43:42Z" count="2"/>
+          <bookmark:application name="Visor de documentos" exec="&apos;evince %u&apos;" modified="2020-09-02T05:37:10Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Vi3xfcess1.png" added="2020-09-01T03:56:27Z" modified="2020-09-01T05:45:08Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-01T05:45:08Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/wp5261851.png" added="2020-09-01T07:55:04Z" modified="2020-09-01T07:55:04Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-01T07:55:04Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Wallpapers/external-content.duckduckgo.com.jpeg" added="2020-09-01T07:57:24Z" modified="2020-09-01T07:57:24Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-01T07:57:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-08-28_17-10-45.png" added="2020-09-02T01:46:46Z" modified="2020-09-02T01:46:46Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T01:46:46Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/DC.jpg" added="2020-09-02T01:47:36Z" modified="2020-09-02T01:47:36Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T01:47:36Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Marwaita.tar.xz" added="2020-09-02T01:50:44Z" modified="2020-09-02T01:50:45Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T01:50:45Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Arc-Darkest-3.36_1.8.1.zip" added="2020-09-02T01:52:39Z" modified="2020-09-02T01:52:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T01:52:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Newaita-master.zip" added="2020-09-02T01:58:29Z" modified="2020-09-02T01:59:16Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T01:59:16Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Helvetica-Font.zip" added="2020-09-02T02:06:21Z" modified="2020-09-02T02:06:21Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T02:06:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.config/nvim/init.vim" added="2020-09-02T03:12:57Z" modified="2020-09-02T03:12:57Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-09-02T03:12:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_02-32-03.png" added="2020-09-02T08:32:11Z" modified="2020-09-02T08:32:11Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T08:32:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Void.png" added="2020-09-02T08:38:57Z" modified="2020-09-02T08:38:57Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T08:38:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Descargas/Nordic-bluish-accent.tar.xz" added="2020-09-02T09:00:31Z" modified="2020-09-02T09:00:39Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T09:00:39Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-28-09.png" added="2020-09-02T09:28:12Z" modified="2020-09-02T09:28:12Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:28:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-29-56.png" added="2020-09-02T09:29:58Z" modified="2020-09-02T09:29:58Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:29:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-30-37.png" added="2020-09-02T09:30:38Z" modified="2020-09-02T09:30:38Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:30:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-31-01.png" added="2020-09-02T09:31:03Z" modified="2020-09-02T09:31:03Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:31:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-33-49.png" added="2020-09-02T09:33:51Z" modified="2020-09-02T09:33:51Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:33:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-33-58.png" added="2020-09-02T09:34:00Z" modified="2020-09-02T09:34:00Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:34:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-34-35.png" added="2020-09-02T09:34:37Z" modified="2020-09-02T09:34:37Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:34:37Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/Captura%20de%20pantalla_2020-09-02_03-36-30.png" added="2020-09-02T09:36:32Z" modified="2020-09-02T09:36:32Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="xfce4-screenshooter" exec="&apos;xfce4-screenshooter %u&apos;" modified="2020-09-02T09:36:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/Im%C3%A1genes/Capturas%20de%20Pantalla/VoidSC.png" added="2020-09-02T23:04:47Z" modified="2020-09-02T23:28:23Z" visited="1969-12-31T23:59:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2020-09-02T23:28:23Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.git/config" added="2020-09-03T02:02:28Z" modified="2020-09-03T02:02:28Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-09-03T02:02:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.git/description" added="2020-09-03T02:02:37Z" modified="2020-09-03T02:02:49Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-09-03T02:02:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/.git/HEAD" added="2020-09-03T02:02:45Z" modified="2020-09-03T02:02:45Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-09-03T02:02:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/carlos/README.md" added="2020-09-03T02:12:31Z" modified="2020-09-03T02:12:31Z" visited="1969-12-31T23:59:59Z">
+    <desc>Conjunto de caracteres: UTF-8</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2020-09-03T02:12:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

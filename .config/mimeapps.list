@@ -1,0 +1,15 @@
+[Added Associations]
+application/octet-stream=mousepad.desktop;
+application/pdf=libreoffice-draw.desktop;calibre-gui.desktop;org.gnome.Evince.desktop;
+text/plain=mousepad.desktop;
+image/svg+xml=org.inkscape.Inkscape.desktop;
+video/mp4=vlc.desktop;
+text/x-matlab=mousepad.desktop;
+application/x-theme=mousepad.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+audio/mpeg=org.xfce.Parole.desktop;
+
+[Default Applications]
+application/pdf=org.gnome.Evince.desktop
+video/mp4=vlc.desktop
+audio/mpeg=org.xfce.Parole.desktop
