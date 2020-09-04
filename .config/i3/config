@@ -102,7 +102,7 @@ bindsym $mod+Shift+d exec void-docs -p
 # Launch ranger file manager.
 bindsym $mod+Shift+f exec xfce4-terminal -e ranger
 
-# Launch htop.
+# Launch watch sensors.
 bindsym $mod+n exec xfce4-terminal -e "watch sensors" 
 
 # Launch htop.
@@ -277,7 +277,10 @@ mode "resize" {
 ######################################################################
 
 # Eliminate windows' borders.
-for_window [class=".*"] border pixel 0
+for_window [class=".*"] border pixel 3
+
+# Activate smart borders (always)
+smart_borders on
 
 #Gaps' default size.
 gaps inner 7 
@@ -320,7 +323,6 @@ mode "$mode_gaps_outer" {
         bindsym Return mode "default"
         bindsym Escape mode "default"
 }
-
 
 
 
