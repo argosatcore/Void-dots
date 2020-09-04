@@ -94,10 +94,28 @@ for_window [class="Xfce4-appfinder"] floating enable
 bindsym $mod+d exec xfce4-appfinder 
 
 # Take a  full screen screenshot.
-bindsym $mod+c exec xfce4-screenshooter -f
+bindsym $mod+Shift+s exec xfce4-screenshooter -f
 
 # Open Void-handbook pdf version.
 bindsym $mod+Shift+d exec void-docs -p
+
+# Launch ranger file manager.
+bindsym $mod+Shift+f exec xfce4-terminal -e ranger
+
+# Launch htop.
+bindsym $mod+n exec xfce4-terminal -e "watch sensors" 
+
+# Launch htop.
+bindsym $mod+m exec xfce4-terminal -e htop
+
+# Launch i3's config file.
+bindsym $mod+z exec xfce4-terminal -e  "vim '.config/i3/config'" 
+
+# Launch .bashrc's config file.
+bindsym $mod+Shift+b exec xfce4-terminal -e  "vim '.bashrc'" 
+
+# Launch .vimrc's config file.
+bindsym $mod+Shift+v exec xfce4-terminal -e  "vim '.vimrc'" 
 
 
 
@@ -262,7 +280,7 @@ mode "resize" {
 for_window [class=".*"] border pixel 0
 
 #Gaps' default size.
-gaps inner 5 
+gaps inner 7 
 gaps outer 1 
 
 #Resize gaps
