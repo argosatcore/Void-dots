@@ -8,7 +8,7 @@
 	vmap ff <Esc> 
 
 " Mapear F4 para entrar y salir de Goyo 
-	nmap <F4> :Goyo <CR>
+	nmap <Space> :Goyo <CR>
 
 "Mapear F5 para utilizar vifm de modo que cuando este se abra, lo haga siempre desde el directorio actual.
 	map <F5> :EditVifm .<CR>
@@ -71,6 +71,7 @@
 
 " Esquema de color, para escoger un tema remueva las comillas de citación del tema a escoger.
 	"colorscheme nord
+
 	" Gruvbox
 		let g:gruvbox_contrast_dark = 'hard'
 		let g:gruvbox_bold = '1'
@@ -79,10 +80,33 @@
 		let g:gruvbox_undercurl = '1'
 		let g:gruvbox_termcolor = '256'
 		colorscheme gruvbox 
-		set background=dark 
+		set background=dark cursorline termguicolors 
 
-"Tema usado en airline:
+" Cambiar esquema de color
+	map <F1> :colorscheme gruvbox<CR>
+
+" Transparencia
+	hi! Normal ctermbg=NONE guibg=NONE 
+	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
+
+" Tema usado en airline:
 	let g:airline_theme='base16_gruvbox_dark_hard'
 	"let g:airline_theme='base16_nord'
 
+" Configuración de Goyo 
+	function! s:goyo_enter()
+	set noshowmode
+	set noshowcmd
+	set nocursorline
+	endfunction
 	
+	function! s:goyo_leave()
+	set showmode
+	set showcmd
+	set cursorline
+	hi! Normal ctermbg=NONE guibg=NONE 
+	endfunction
+
+
+	autocmd! User GoyoEnter nested call <SID>goyo_enter()
+	autocmd! User GoyoLeave nested call <SID>goyo_leave() 

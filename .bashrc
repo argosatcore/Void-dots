@@ -140,10 +140,13 @@ fi
 alias f='xdg-open $(fzf); exit'
 
 # Pull up i3's config file.
-alias i3c='vim .config/i3/config'
+alias i3c='nvim .config/i3/config'
 
 # Pull up vim's .vimrc.
-alias vrc='vim .vimrc'
+alias vrc='nvim .vimrc'
 
 # Pull up bash's .bashrc.
-alias brc='vim .bashrc'
+alias brc='nvim .bashrc'
+
+# Use Nvim
+alias v='nvim'
