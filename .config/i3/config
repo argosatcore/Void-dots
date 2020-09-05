@@ -109,13 +109,16 @@ bindsym $mod+n exec xfce4-terminal -e "watch sensors"
 bindsym $mod+m exec xfce4-terminal -e htop
 
 # Launch i3's config file.
-bindsym $mod+z exec xfce4-terminal -e  "vim '.config/i3/config'" 
+bindsym $mod+z exec xfce4-terminal -e  "nvim '.config/i3/config'" 
 
 # Launch .bashrc's config file.
-bindsym $mod+Shift+b exec xfce4-terminal -e  "vim '.bashrc'" 
+bindsym $mod+Shift+b exec xfce4-terminal -e  "nvim '.bashrc'" 
 
 # Launch .vimrc's config file.
-bindsym $mod+Shift+v exec xfce4-terminal -e  "vim '.vimrc'" 
+bindsym $mod+Shift+v exec xfce4-terminal -e  "nvim '.vimrc'" 
+
+# Launch picom's config file.
+bindsym $mod+p exec xfce4-terminal -e  "nvim '.config/picom/picom.conf'" 
 
 
 
@@ -283,7 +286,7 @@ for_window [class=".*"] border pixel 3
 smart_borders on
 
 #Gaps' default size.
-gaps inner 7 
+gaps inner 10 
 gaps outer 1 
 
 #Resize gaps
