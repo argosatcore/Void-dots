@@ -22,7 +22,6 @@
 set $mod Mod4
 
 
-
 ######################################################################
 #####################                      ###########################
 #####################     I3'S SESSION     ###########################
@@ -75,19 +74,19 @@ exec_always picom --config /home/carlos/.config/picom/picom.conf
 bindsym $mod+Shift+x exec i3lockr -b 5 
 
 # Launch a terminal.
-bindsym $mod+Return exec xfce4-terminal
+bindsym $mod+Return exec i3-sensible-terminal
 
 # Launch web browser.
 bindsym $mod+i exec firefox
 
 # Launch file manager.
-bindsym $mod+f exec thunar
+bindsym $mod+f exec urxvt -e nnn 
 
 # Kill focused window.
 bindsym $mod+q kill
 
-# Launch xfce's whisker menu.
-bindsym $mod+x  exec xfce4-popup-whiskermenu
+# Launch .Xdefaults.
+bindsym $mod+x  exec urxvt -e nvim .Xdefaults
 
 # Launch xfce's appfinder as a floating window.
 for_window [class="Xfce4-appfinder"] floating enable
@@ -100,25 +99,22 @@ bindsym $mod+Shift+s exec xfce4-screenshooter -f
 bindsym $mod+Shift+d exec void-docs -p
 
 # Launch ranger file manager.
-bindsym $mod+Shift+f exec xfce4-terminal -e ranger
+bindsym $mod+Shift+f exec thunar
 
-# Launch watch sensors.
-bindsym $mod+n exec xfce4-terminal -e "watch sensors" 
-
-# Launch htop.
-bindsym $mod+m exec xfce4-terminal -e htop
+# Launch gotop.
+bindsym $mod+m exec urxvt -e gotop -s -b
 
 # Launch i3's config file.
-bindsym $mod+z exec xfce4-terminal -e  "nvim '.config/i3/config'" 
+bindsym $mod+z exec urxvt -e  nvim .config/i3/config
 
 # Launch .bashrc's config file.
-bindsym $mod+Shift+b exec xfce4-terminal -e  "nvim '.bashrc'" 
+bindsym $mod+Shift+b exec urxvt -e  nvim .bashrc 
 
 # Launch .vimrc's config file.
-bindsym $mod+Shift+v exec xfce4-terminal -e  "nvim '.vimrc'" 
+bindsym $mod+Shift+v exec urxvt -e  nvim .vimrc 
 
 # Launch picom's config file.
-bindsym $mod+p exec xfce4-terminal -e  "nvim '.config/picom/picom.conf'" 
+bindsym $mod+p exec urxvt -e  nvim .config/picom/picom.conf
 
 
 
@@ -143,7 +139,7 @@ bindsym Mod1+Down exec xdotool mousemove_relative 0 15
 bindsym Mod1+Right exec xdotool mousemove_relative 15 0  
 bindsym Mod1+Left exec xdotool mousemove_relative -- -15 0 
 bindsym Mod1+Return exec xdotool click 1  
-bindsym Mod1+Spacebar exec xdotool click 2  
+bindsym Mod1+Space exec xdotool click 2  
 bindsym Mod1+Ctrl exec xdotool click 3  
 
 # Change focus.
@@ -170,11 +166,9 @@ bindsym $mod+Shift+Down move down
 bindsym $mod+Shift+Up move up
 bindsym $mod+Shift+Right move right
 
-# Split in horizontal orientation.
-bindsym $mod+b split h 
 
-# Split in vertical orientation.
-bindsym $mod+v split v
+# Toggle Split between vertical and horizontal orientations.
+bindsym $mod+BackSpace split toggle 
 
 # Enter fullscreen mode for the focused container.
 bindsym $mod+t fullscreen toggle

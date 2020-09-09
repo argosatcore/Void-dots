@@ -70,9 +70,11 @@ if [ "$color_prompt" = yes ]; then
    # PS1+='\[\033[01;00m\]ꙮ ';
    # PS1+='\[\033[01;00m\]⪼  ';
  
-   PS1+='\[\033[01;00m\]ꙮ ';
+   PS1+='\[\033[01;00m\][';
    PS1+='\[\033[01;36m\]\w';
-   PS1+='\[\033[01;00m\]⪼  ';
+   PS1+='\[\033[01;00m\]]';
+   PS1+='\[\033[01;32m\]⊙';
+   PS1+='\[\033[01;00m\] ';
 
 else
     PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
@@ -136,17 +138,36 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# Tranform terminal into a finder.
-alias f='xdg-open $(fzf); exit'
-
-# Pull up i3's config file.
-alias i3c='nvim .config/i3/config'
-
-# Pull up vim's .vimrc.
-alias vrc='nvim .vimrc'
-
-# Pull up bash's .bashrc.
-alias brc='nvim .bashrc'
-
-# Use Nvim
+# Use Nvim:
 alias v='nvim'
+
+# Vim mode:
+set -o vi
+
+
+#NNN:
+export PATH
+export EDITOR="nvim"
+export PAGER="less"
+export MANPAGER='nvim +Man!'
+TERM=xterm-256color
+
+	#Bookmarks
+	export NNN_BMS='d:/home/carlos/Documents;u:/home/user/Cam Uploads;D:~/Downloads/'
+
+	#Plugins
+	export NNN_PLUG='f:finder;o:fzopen;p:mocplay;d:dragdrop;t:nmount;v:preview-tui;z:fzcd'
+	
+	#Archive
+	export NNN_ARCHIVE="\\.(7z|bz2|gz|tar|tgz|zip)$"
+	
+	#Trash
+	export NNN_TRASH=1
+
+# Xbps:
+alias xq='xbps-query -Rs'
+alias xi='sudo xbps-install -S'
+alias xe='sudo xbps-remove -R'
+alias clean='sudo xbps-remove -Oo'
+alias lk='vkpurge list'
+alias kk='sudo vkpurge rm'
