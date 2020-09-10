@@ -58,6 +58,8 @@ bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOU
 
 #Set random wallpaper everytime a new sesion of i3 is started.
 exec_always feh --bg-fill --randomize /home/carlos/Imágenes/Wallpapers/
+#exec_always feh --bg-center /home/carlos/Imágenes/Wallpapers/wpv.png
+
 
 #Autstart picom using my config file.
 exec_always picom --config /home/carlos/.config/picom/picom.conf
@@ -74,7 +76,7 @@ exec_always picom --config /home/carlos/.config/picom/picom.conf
 bindsym $mod+Shift+x exec i3lockr -b 5 
 
 # Launch a terminal.
-bindsym $mod+Return exec i3-sensible-terminal
+bindsym $mod+space exec i3-sensible-terminal
 
 # Launch web browser.
 bindsym $mod+i exec firefox
@@ -182,7 +184,7 @@ bindsym $mod+e layout toggle split
 bindsym $mod+Shift+space floating toggle
 
 # Change focus between tiling / floating windows.
-bindsym $mod+space focus mode_toggle
+bindsym $mod+Return focus mode_toggle
 
 # Focus the parent container.
 bindsym $mod+a focus parent

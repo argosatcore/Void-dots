@@ -1,94 +1,50 @@
-# ~/.bashrc: executed by bash(1) for non-login shells.
-# see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
-# for examples
+# _____ _            ____                              
+#|_   _| |__   ___  | __ )  ___  _   _ _ __ _ __   ___ 
+#  | | | '_ \ / _ \ |  _ \ / _ \| | | | '__| '_ \ / _ \
+#  | | | | | |  __/ | |_) | (_) | |_| | |  | | | |  __/
+#  |_| |_| |_|\___| |____/ \___/ \__,_|_|  |_| |_|\___|
+#                                                      
+#    _               _         ____  _          _ _   
+#   / \   __ _  __ _(_)_ __   / ___|| |__   ___| | |  
+#  / _ \ / _` |/ _` | | '_ \  \___ \| '_ \ / _ \ | |  
+# / ___ \ (_| | (_| | | | | |  ___) | | | |  __/ | |_ 
+#/_/   \_\__, |\__,_|_|_| |_| |____/|_| |_|\___|_|_(_)
+#        |___/                                        
 
-# If not running interactively, don't do anything
-case $- in
-    *i*) ;;
-      *) return;;
-esac
+#Environmental Variables:
+	export EDITOR="nvim"
+	export PAGER="less"
+	export MANPAGER='nvim +Man!'
+	export BROWSER="firefox"
+LS_COLORS=$ORIGINAL
+	export TERM="xterm-256color"
+	bind 'set completion-ignore-case on'
+	shopt -s cdspell
+	complete -d cd
 
-# don't put duplicate lines or lines starting with space in the history.
-# See bash(1) for more options
-HISTCONTROL=ignoreboth
+#Bash prompt:
+	PS1='\[\033[01;91m\]\w';
+	PS1+='\[\033[01;32m\] ⊙ ';
+	PS1+='\[\033[01;00m\]';
 
-# append to the history file, don't overwrite it
-shopt -s histappend
-
-# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
-HISTSIZE=1000
-HISTFILESIZE=2000
-
-# check the window size after each command and, if necessary,
-# update the values of LINES and COLUMNS.
-shopt -s checkwinsize
-
-# If set, the pattern "**" used in a pathname expansion context will
-# match all files and zero or more directories and subdirectories.
-#shopt -s globstar
-
-# make less more friendly for non-text input files, see lesspipe(1)
-[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
-
-# set variable identifying the chroot you work in (used in the prompt below)
-if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
-    debian_chroot=$(cat /etc/debian_chroot)
-fi
-
-# set a fancy prompt (non-color, unless we know we "want" color)
-case "$TERM" in
-    xterm-color|*-256color) color_prompt=yes;;
-esac
-
-# uncomment for a colored prompt, if the terminal has the capability; turned
-# off by default to not distract the user: the focus in a terminal window
-# should be on the output of commands, not on the prompt
-#force_color_prompt=yes
-
-if [ -n "$force_color_prompt" ]; then
-    if [ -x /usr/bin/tput ] && tput setaf 1 >&/dev/null; then
-	# We have color support; assume it's compliant with Ecma-48
-	# (ISO/IEC-6429). (Lack of such support is extremely rare, and such
-	# a case would tend to support setf rather than setaf.)
-	color_prompt=yes
-    else
-	color_prompt=
-    fi
-fi
-
-if [ "$color_prompt" = yes ]; then
-    PS1='${debian_chroot:+($debian_chroot)}';
-   # PS1+='\[\033[01;37m\]⊰';
-   # PS1+='\[\033[01;32m\]⎨';
-   # PS1+='\[\033[01;36m\]\u';
-   # PS1+='\[\033[01;33m\]⌘';
-   # PS1+='\[\033[01;31m\]\h';
-   # PS1+='\[\033[01;35m\]§';
-   # PS1+='\[\033[01;34m\]\w';
-   # PS1+='\[\033[01;32m\]⎬';
-   # PS1+='\[\033[01;37m\]⊱';
-   # PS1+='\[\033[01;00m\]ꙮ ';
-   # PS1+='\[\033[01;00m\]⪼  ';
- 
-   PS1+='\[\033[01;00m\][';
-   PS1+='\[\033[01;36m\]\w';
-   PS1+='\[\033[01;00m\]]';
-   PS1+='\[\033[01;32m\]⊙';
-   PS1+='\[\033[01;00m\] ';
-
-else
-    PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
-fi
-unset color_prompt force_color_prompt
-
-# If this is an xterm set the title to user@host:dir
-case "$TERM" in
-xterm*|rxvt*)
-    PS1="\[\e]0;${debian_chroot:+($debian_chroot)}\u@\h: \w\a\]$PS1"
-    ;;
-*)
-    ;;
-esac
+#Aliases:
+	alias ll='ls -alF'
+	alias la='ls -A'
+	alias l='ls -CF'
+	alias poweroff='loginctl poweroff'
+	alias reboot='loginctl reboot'
+	alias suspend='loginctl suspend'
+	alias v='nvim'
+	alias n='nnn'
+	alias xq='xbps-query -Rs'
+	alias xu='sudo xbps-install -Su'
+	alias xi='sudo xbps-install -S'
+	alias xr='sudo xbps-remove -R'
+	alias clean='sudo xbps-remove -Oo'
+	alias lk='vkpurge list'
+	alias kk='sudo vkpurge rm'
+	alias sbrc='source /home/carlos/.bashrc'
+	alias svrc='source /home/carlos/.vimrc'
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
@@ -101,31 +57,30 @@ if [ -x /usr/bin/dircolors ]; then
     alias fgrep='fgrep --color=auto'
     alias egrep='egrep --color=auto'
 fi
+	
+# Vim mode:
+	set -o vi
 
-# colored GCC warnings and errors
-#export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
+# If not running interactively, don't do anything
+	[[ $- != *i* ]] && return
 
-# some more ls aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias poweroff='loginctl poweroff'
-alias reboot='loginctl reboot'
-alias suspend='loginctl suspend'
+# don't put duplicate lines or lines starting with space in the history.
+# See bash(1) for more options
+	HISTCONTROL=ignoreboth
 
+# append to the history file, don't overwrite it
+	shopt -s histappend
 
-# Add an "alert" alias for long running commands.  Use like so:
-#   sleep 10; alert
-alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
+# for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
+	HISTSIZE=1000
+	HISTFILESIZE=2000
 
-# Alias definitions.
-# You may want to put all your additions into a separate file like
-# ~/.bash_aliases, instead of adding them here directly.
-# See /usr/share/doc/bash-doc/examples in the bash-doc package.
+# check the window size after each command and, if necessary,
+# update the values of LINES and COLUMNS.
+	shopt -s checkwinsize
 
-if [ -f ~/.bash_aliases ]; then
-    . ~/.bash_aliases
-fi
+# make less more friendly for non-text input files, see lesspipe(1)
+	[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
 
 # enable programmable completion features (you don't need to enable
 # this, if it's already enabled in /etc/bash.bashrc and /etc/profile
@@ -138,36 +93,18 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# Use Nvim:
-alias v='nvim'
-
-# Vim mode:
-set -o vi
-
-
-#NNN:
-export PATH
-export EDITOR="nvim"
-export PAGER="less"
-export MANPAGER='nvim +Man!'
-TERM=xterm-256color
+#NNN's environmental variables:
 
 	#Bookmarks
-	export NNN_BMS='d:/home/carlos/Documents;u:/home/user/Cam Uploads;D:~/Downloads/'
+		export NNN_BMS='d:/home/carlos/Documents;u:/home/user/Cam Uploads;D:~/Downloads/'
 
 	#Plugins
-	export NNN_PLUG='f:finder;o:fzopen;p:mocplay;d:dragdrop;t:nmount;v:preview-tui;z:fzcd'
+		export NNN_PLUG='f:finder;o:fzopen;p:mocplay;d:dragdrop;t:nmount;v:preview-tui;z:fzcd'
 	
 	#Archive
-	export NNN_ARCHIVE="\\.(7z|bz2|gz|tar|tgz|zip)$"
+		export NNN_ARCHIVE="\\.(7z|bz2|gz|tar|tgz|zip)$"
 	
 	#Trash
-	export NNN_TRASH=1
+		export NNN_TRASH=1
 
-# Xbps:
-alias xq='xbps-query -Rs'
-alias xi='sudo xbps-install -S'
-alias xe='sudo xbps-remove -R'
-alias clean='sudo xbps-remove -Oo'
-alias lk='vkpurge list'
-alias kk='sudo vkpurge rm'
+
