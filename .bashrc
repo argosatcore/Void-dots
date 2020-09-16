@@ -16,16 +16,17 @@
 	export PAGER="less"
 	export MANPAGER='nvim +Man!'
 	export BROWSER="firefox"
-LS_COLORS=$ORIGINAL
 	export TERM="xterm-256color"
 	bind 'set completion-ignore-case on'
 	shopt -s cdspell
 	complete -d cd
 
 #Bash prompt:
-	PS1='\[\033[01;91m\]\w';
-	PS1+='\[\033[01;32m\] ⊙ ';
-	PS1+='\[\033[01;00m\]';
+	PS1='\[\033[00;00m\][';
+	PS1+='\[\033[01;91m\]\w';
+	PS1+='\[\033[00;00m\]]';
+	PS1+='\[\033[01;32m\]⊙ ';
+	PS1+='\[\033[00;00m\]';
 
 #Aliases:
 	alias ll='ls -alF'
@@ -45,6 +46,7 @@ LS_COLORS=$ORIGINAL
 	alias kk='sudo vkpurge rm'
 	alias sbrc='source /home/carlos/.bashrc'
 	alias svrc='source /home/carlos/.vimrc'
+	alias trim='sudo fstrim /'
 
 # enable color support of ls and also add handy aliases
 if [ -x /usr/bin/dircolors ]; then
@@ -60,6 +62,9 @@ fi
 	
 # Vim mode:
 	set -o vi
+bind 'set show-mode-in-prompt on'
+bind 'set vi-ins-mode-string +'
+bind 'set vi-cmd-mode-string -'
 
 # If not running interactively, don't do anything
 	[[ $- != *i* ]] && return

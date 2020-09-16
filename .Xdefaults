@@ -24,7 +24,7 @@
 	*.foreground:  		#ebdbb2
 	*.background:  		#1d2021
 	*.cursorColor: 		#ebdbb2
-	*.highlightColor:	#fb4934
+!	*.highlightColor:	#fb4934
 	! black
 		*.color0:      	#282828
 		*.color8:      	#928374
@@ -53,7 +53,7 @@
 !Transparency
 	URxvt*transparent:      false 
 	URxvt*depth:		32
-	URxvt.background: 	[85]#000000
+	URxvt.background: 	[80]#000000
 
 
 !Scrollbar: Disabled
@@ -61,10 +61,10 @@
 	URxvt*scrollBar_right: 	false
 
 !Fonts
-!	URxvt.font: xft:SauceCodePro Nerd Font Mono:pixelsize=15
-!
+!	URxvt.font: xft:SauceCodePro Nerd Font Mono:size=12
+	URxvt.font: xft:Dejavu Sans Mono:size=12
 !	URxvt.font: xft:Fira Code Retina:size=12
-	URxvt.font: 		xft:Monospace:size=11
+!	URxvt.font: 		xft:Monospace:size=12
 
 
 	URxvt.letterSpace: 	0 
@@ -106,7 +106,7 @@
 
 	!Clickables urls
 		URxvt.perl-ext-common:	 default,matcher	
-		URxvt.url-launcher:	 /usr/bin/xdg-open 
+!		URxvt.url-launcher:	 /usr/bin/xdg-open 
 	
 		URxvt.matcher.button:	 1
     

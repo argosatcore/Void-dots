@@ -22,6 +22,7 @@
 set $mod Mod4
 
 
+
 ######################################################################
 #####################                      ###########################
 #####################     I3'S SESSION     ###########################
@@ -103,8 +104,11 @@ bindsym $mod+Shift+d exec void-docs -p
 # Launch ranger file manager.
 bindsym $mod+Shift+f exec thunar
 
-# Launch gotop.
-bindsym $mod+m exec urxvt -e gotop -s -b
+# Launch htop.
+bindsym $mod+m exec urxvt -e htop 
+
+# Launch watch sensors.
+bindsym $mod+n exec urxvt -e watch sensors 
 
 # Launch i3's config file.
 bindsym $mod+z exec urxvt -e  nvim .config/i3/config
@@ -170,7 +174,7 @@ bindsym $mod+Shift+Right move right
 
 
 # Toggle Split between vertical and horizontal orientations.
-bindsym $mod+BackSpace split toggle 
+bindsym $mod+b split toggle 
 
 # Enter fullscreen mode for the focused container.
 bindsym $mod+t fullscreen toggle
