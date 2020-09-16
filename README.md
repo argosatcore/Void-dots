@@ -2,6 +2,6 @@
 
 Void linux dot files. They specially configured to work on my desktop environment, which is a hybrid between the Xfce desktop and the i3-gaps window manager. One may call it XFi3-gaps. 
 
-![xfi4wmlogo](https://user-images.githubusercontent.com/64110504/93293153-8b2e8380-f7a4-11ea-885d-c97c8591f5af.png)
+                      ![xfi4wmlogo](https://user-images.githubusercontent.com/64110504/93293153-8b2e8380-f7a4-11ea-885d-c97c8591f5af.png)
 
 
