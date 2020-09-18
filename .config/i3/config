@@ -29,6 +29,26 @@ set $mod Mod4
 #####################                      ###########################
 ######################################################################
 
+# Colors
+set $active #474749E0
+set $fg     #FFFFFF
+set $bg     #2A2A2EE0
+set $bar    #2A2A2EE0
+
+# Window Border color   border  backgr  text  indicator
+client.focused          $active $active $fg   $fg
+client.focused_inactive $bg     $bg     $fg   $fg
+client.unfocused        $bg     $bg     $fg   $fg
+client.urgent           $bg     $bg     $fg   $fg
+
+
+
+######################################################################
+#####################                      ###########################
+#####################     I3'S SESSION     ###########################
+#####################                      ###########################
+######################################################################
+
 # Reload the configuration file.
 bindsym $mod+Shift+c reload
 

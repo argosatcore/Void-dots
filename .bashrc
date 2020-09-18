@@ -41,6 +41,7 @@
 	alias xu='sudo xbps-install -Su'
 	alias xi='sudo xbps-install -S'
 	alias xr='sudo xbps-remove -R'
+	alias packages='xbps-query -Rs \* | wc -l'
 	alias clean='sudo xbps-remove -Oo'
 	alias lk='vkpurge list'
 	alias kk='sudo vkpurge rm'

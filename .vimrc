@@ -54,7 +54,7 @@
 	set mouse=a
 
 " Resaltar la línea en donde se encuentra posicionado el cursor.
-	set cursorline
+set background=dark cursorline termguicolors
 
 " Detectar la sintaxis de un determinado tipo de documento, indicado en la extensión del archivo mismo.
 	syntax on 
@@ -80,13 +80,13 @@
 	"colorscheme nord
 
 	" Gruvbox
-		let g:gruvbox_contrast_dark = 'hard'
-		let g:gruvbox_bold = '1'
-		let g:gruvbox_italic = '1'
-		let g:gruvbox_underline = '1'
-		let g:gruvbox_undercurl = '1'
-		let g:gruvbox_termcolor = '256'
-		colorscheme gruvbox 
+"		let g:gruvbox_contrast_dark = 'hard'
+"		let g:gruvbox_bold = '1'
+"		let g:gruvbox_italic = '1'
+"		let g:gruvbox_underline = '1'
+"		let g:gruvbox_undercurl = '1'
+"		let g:gruvbox_termcolor = '256'
+"		colorscheme gruvbox 
 
 " Cambiar esquema de color
 	map <F1> :colorscheme gruvbox<CR>
@@ -96,8 +96,9 @@
 	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
 
 " Tema usado en airline:
-	let g:airline_theme='base16_gruvbox_dark_hard'
+"	let g:airline_theme='base16_gruvbox_dark_hard'
 	"let g:airline_theme='base16_nord'
+	let g:airline_theme='monochrome'
 
 " Configuración de Goyo 
 	function! s:goyo_enter()
