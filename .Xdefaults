@@ -10,7 +10,7 @@
 	URxvt.termName: rxvt-unicode-256color
 
 !! URxvt Appearance
-	URxvt.geometry: 	85x25
+	URxvt.geometry: 	80x25
 	URxvt.internalBorder: 	12 
 	URxvt.cursorBlink: 	true
 	URxvt.cursorUnderline: 	false

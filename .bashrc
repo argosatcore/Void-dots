@@ -32,6 +32,7 @@
 	alias ll='ls -alF'
 	alias la='ls -A'
 	alias l='ls -CF'
+	alias c='clear'
 	alias poweroff='loginctl poweroff'
 	alias reboot='loginctl reboot'
 	alias suspend='loginctl suspend'

@@ -54,7 +54,10 @@
 	set mouse=a
 
 " Resaltar la línea en donde se encuentra posicionado el cursor.
-set background=dark cursorline termguicolors
+	set background=dark 
+	set cursorline 
+	set termguicolors
+	highlight! link CursorLine Visual
 
 " Detectar la sintaxis de un determinado tipo de documento, indicado en la extensión del archivo mismo.
 	syntax on 
@@ -94,6 +97,7 @@ set background=dark cursorline termguicolors
 " Transparencia
 	hi! Normal ctermbg=NONE guibg=NONE 
 	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
+	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
 
 " Tema usado en airline:
 "	let g:airline_theme='base16_gruvbox_dark_hard'
@@ -105,13 +109,20 @@ set background=dark cursorline termguicolors
 	set noshowmode
 	set noshowcmd
 	set nocursorline
+	highlight! link CursorLine Visual
+	hi! Normal ctermbg=NONE guibg=NONE 
+	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
+	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
 	endfunction
 	
 	function! s:goyo_leave()
 	set showmode
 	set showcmd
 	set cursorline
+	highlight! link CursorLine Visual
 	hi! Normal ctermbg=NONE guibg=NONE 
+	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE
+	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
 	endfunction
 
 
