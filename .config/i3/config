@@ -25,15 +25,15 @@ set $mod Mod4
 
 ######################################################################
 #####################                      ###########################
-#####################     I3'S SESSION     ###########################
+#####################      I3'S COLORS     ###########################
 #####################                      ###########################
 ######################################################################
 
 # Colors
-set $active #474749E0
+set $active #5294e2
 set $fg     #FFFFFF
-set $bg     #2A2A2EE0
-set $bar    #2A2A2EE0
+set $bg     #383c4a
+set $bar    #404552
 
 # Window Border color   border  backgr  text  indicator
 client.focused          $active $active $fg   $fg
@@ -77,13 +77,15 @@ bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT
 bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
 bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
 
-#Set random wallpaper everytime a new sesion of i3 is started.
+#Set a random wallpaper each time this configuration is loaded.
 exec_always feh --bg-fill --randomize /home/carlos/Imágenes/Wallpapers/
 #exec_always feh --bg-center /home/carlos/Imágenes/Wallpapers/wpv.png
 
-
-#Autstart picom using my config file.
+#Autstart picom using my custom configuration file.
 exec_always picom --config /home/carlos/.config/picom/picom.conf
+
+#Swap Caps Lock with Esc.
+exec_always xmodmap /home/carlos/.speedswapper
 
 
 
@@ -349,6 +351,14 @@ mode "$mode_gaps_outer" {
 
 
 
+######################################################################
+#####################                      ###########################
+#####################      SMART GAPS'     ###########################
+#####################                      ###########################
+######################################################################
 
+# Only enable gaps on a workspace when there is at least one container
+smart_gaps on
 
-
+# Only enable outer gaps when there is exactly one container
+#smart_gaps inverse_outer

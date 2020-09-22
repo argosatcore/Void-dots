@@ -51,22 +51,22 @@
 	alias trim='sudo fstrim /'
 
 # enable color support of ls and also add handy aliases
-if [ -x /usr/bin/dircolors ]; then
-    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
-    alias ls='ls --color=auto'
-    #alias dir='dir --color=auto'
-    #alias vdir='vdir --color=auto'
-
-    alias grep='grep --color=auto'
-    alias fgrep='fgrep --color=auto'
-    alias egrep='egrep --color=auto'
-fi
+	if [ -x /usr/bin/dircolors ]; then
+	    test -r ~/.dircolors && eval "$(dircolors -b ~/.dircolors)" || eval "$(dircolors -b)"
+	    alias ls='ls --color=auto'
+	    #alias dir='dir --color=auto'
+	    #alias vdir='vdir --color=auto'
+	
+	    alias grep='grep --color=auto'
+	    alias fgrep='fgrep --color=auto'
+	    alias egrep='egrep --color=auto'
+	fi
 	
 # Vim mode:
 	set -o vi
-bind 'set show-mode-in-prompt on'
-bind 'set vi-ins-mode-string +'
-bind 'set vi-cmd-mode-string -'
+	bind 'set show-mode-in-prompt on'
+	bind 'set vi-ins-mode-string +'
+	bind 'set vi-cmd-mode-string -'
 
 # If not running interactively, don't do anything
 	[[ $- != *i* ]] && return

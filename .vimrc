@@ -54,10 +54,8 @@
 	set mouse=a
 
 " Resaltar la línea en donde se encuentra posicionado el cursor.
-	set background=dark 
-	set cursorline 
-	set termguicolors
-	highlight! link CursorLine Visual
+	set background=dark cursorline
+"	highlight! link CursorLine Visual
 
 " Detectar la sintaxis de un determinado tipo de documento, indicado en la extensión del archivo mismo.
 	syntax on 
@@ -83,46 +81,46 @@
 	"colorscheme nord
 
 	" Gruvbox
-"		let g:gruvbox_contrast_dark = 'hard'
-"		let g:gruvbox_bold = '1'
-"		let g:gruvbox_italic = '1'
-"		let g:gruvbox_underline = '1'
-"		let g:gruvbox_undercurl = '1'
-"		let g:gruvbox_termcolor = '256'
-"		colorscheme gruvbox 
+		let g:gruvbox_contrast_dark = 'hard'
+		let g:gruvbox_bold = '1'
+		let g:gruvbox_italic = '1'
+		let g:gruvbox_underline = '1'
+		let g:gruvbox_undercurl = '1'
+		let g:gruvbox_termcolor = '256'
+		colorscheme gruvbox 
 
 " Cambiar esquema de color
-	map <F1> :colorscheme gruvbox<CR>
+"	map <F1> :colorscheme gruvbox<CR>
 
 " Transparencia
 	hi! Normal ctermbg=NONE guibg=NONE 
 	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
-	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
+"	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
 
 " Tema usado en airline:
-"	let g:airline_theme='base16_gruvbox_dark_hard'
-	"let g:airline_theme='base16_nord'
-	let g:airline_theme='monochrome'
+	let g:airline_theme='base16_gruvbox_dark_hard'
+"	let g:airline_theme='base16_nord'
+"	let g:airline_theme='monochrome'
 
 " Configuración de Goyo 
 	function! s:goyo_enter()
 	set noshowmode
 	set noshowcmd
 	set nocursorline
-	highlight! link CursorLine Visual
+"	highlight! link CursorLine Visual
 	hi! Normal ctermbg=NONE guibg=NONE 
 	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE 
-	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
+"	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
 	endfunction
 	
 	function! s:goyo_leave()
 	set showmode
 	set showcmd
 	set cursorline
-	highlight! link CursorLine Visual
+"	highlight! link CursorLine Visual
 	hi! Normal ctermbg=NONE guibg=NONE 
 	hi! NonText ctermbg=NONE guibg=NONE guifg=NONE ctermfg=NONE
-	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
+"	highlight Visual term=reverse cterm=reverse ctermbg=Black ctermfg=NONE guibg=NONE guifg=NONE gui=reverse 
 	endfunction
 
 
