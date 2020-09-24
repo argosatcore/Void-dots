@@ -11,7 +11,7 @@ if [ -d /etc/X11/xinit/xinitrc.d ]; then
   unset f
 fi
 
-xbacklight -set 5
+xbacklight -set 5 &
 # exec gnome-session
 # exec startkde
 # exec startxfce4
@@ -21,3 +21,9 @@ xbacklight -set 5
 setxkbmap latam &
 
 #Compositor
+
+#Set mouse with left handed layout
+xmodmap /home/carlos/.mouseconfig &
+
+#Start NM Applet
+exec nm-applet &

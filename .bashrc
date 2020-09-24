@@ -49,7 +49,7 @@
 	alias sbrc='source /home/carlos/.bashrc'
 	alias svrc='source /home/carlos/.vimrc'
 	alias trim='sudo fstrim /'
-	alias screencast='ffmpeg -f x11grab -r 50 -s 1366x768 -i :0.0 -acodec aac -vcodec libx264 -crf 0 screencast.mp4'
+	alias screencast='ffmpeg -f x11grab -r 50 -s 1366x768 -i :0.0 -acodec aac -vcodec libx264 -crf 0 screencast.mkv'
 
 # enable color support of ls and also add handy aliases
 	if [ -x /usr/bin/dircolors ]; then
