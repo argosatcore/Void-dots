@@ -16,7 +16,7 @@
 	export PAGER="less"
 	export MANPAGER='nvim +Man!'
 	export BROWSER="firefox"
-	export TERM="xterm-256color"
+	export TERM="rxvt-unicode"
 	bind 'set completion-ignore-case on'
 	shopt -s cdspell
 	complete -d cd
@@ -49,6 +49,7 @@
 	alias sbrc='source /home/carlos/.bashrc'
 	alias svrc='source /home/carlos/.vimrc'
 	alias trim='sudo fstrim /'
+	alias screencast='ffmpeg -f x11grab -r 50 -s 1366x768 -i :0.0 -acodec aac -vcodec libx264 -crf 0 screencast.mp4'
 
 # enable color support of ls and also add handy aliases
 	if [ -x /usr/bin/dircolors ]; then

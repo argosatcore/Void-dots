@@ -93,10 +93,11 @@
 	URxvt*scrollBar_right: 	false
 
 !Fonts
-!	URxvt.font: xft:SauceCodePro Nerd Font Mono:size=12
-	URxvt.font: xft:Dejavu Sans Mono:size=11
-!	URxvt.font: xft:Fira Code Retina:size=12
-!	URxvt.font: 		xft:Monospace:size=12
+!URxvt.font:xft:SauceCodePro Nerd Font Mono:size=10
+	URxvt.font:xft:Dejavu Sans Mono:size=11
+!	URxvt.font:xft:Iconoslata:size=10
+!	URxvt.font:xft:Fira Code Retina:size=12
+!	URxvt.font:xft:Monospace:size=12
 
 
 	URxvt.letterSpace: 	0 
@@ -136,8 +137,8 @@
 
 !Perl Extensions:
 
-	!Clickables urls
-		URxvt.perl-ext-common:	 default,matcher	
+!	Clickables urls
+		URxvt.perl-ext-common:  default,matcher,clipboard
 !		URxvt.url-launcher:	 /usr/bin/xdg-open 
 	
 		URxvt.matcher.button:	 1
@@ -148,7 +149,10 @@
 		URxvt.urlLauncher:  	 firefox
 		URxvt.underlineURLs: 	true
 
-	!Bidirectional support
+!	Bidirectional support
 		URxvt.perl-ext: 	[other extensions],bidi
 		URxvt.bidi.enabled: 	1
-
+!	
+!	Clipboard
+		URxvt.keysym.Shift-Control-C:       perl:clipboard:copy
+		URxvt.keysym.Shift-Control-V:       perl:clipboard:paste

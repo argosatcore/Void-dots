@@ -85,7 +85,7 @@ exec_always feh --bg-fill --randomize /home/carlos/Imágenes/Wallpapers/
 exec_always picom --config /home/carlos/.config/picom/picom.conf
 
 #Swap Caps Lock with Esc.
-exec_always xmodmap /home/carlos/.speedswapper
+exec --no-startup-id xmodmap /home/carlos/.speedswapper
 
 
 
