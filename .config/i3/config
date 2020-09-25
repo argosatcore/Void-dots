@@ -80,10 +80,10 @@ font pango:FontAwesome 9.5
 exec --no-startup-id xmodmap /home/carlos/.mouseconfig
 
 #Swap Caps Lock with Esc.
-exec --no-startup-id xmodmap /home/carlos/.speedswapper
+exec_always  xmodmap /home/carlos/.speedswapper
 
 #Set latam keyboard
-exec --no-startup-id setxkbmap latam
+exec_always setxkbmap latam
 
 #Set screen brightness to 5% on start up
 exec --no-startup-id xbacklight -set 5
@@ -122,7 +122,7 @@ bar {
 	tray_output primary 
 	i3bar_command i3bar --transparency
 	colors {
-        background #10101099
+        background #101010D9
         statusline #ffffff
         separator #666666
         focused_workspace  #5294e2 #5294e2 #ffffff

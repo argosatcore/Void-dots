@@ -50,6 +50,9 @@
 	alias svrc='source /home/carlos/.vimrc'
 	alias trim='sudo fstrim /'
 	alias screencast='ffmpeg -f x11grab -r 50 -s 1366x768 -i :0.0 -acodec aac -vcodec libx264 -crf 0 screencast.mkv'
+	alias sec='xmodmap /home/carlos/.speedswapper'
+	alias i3st='v /home/carlos/.config/i3status/config'
+
 
 # enable color support of ls and also add handy aliases
 	if [ -x /usr/bin/dircolors ]; then
