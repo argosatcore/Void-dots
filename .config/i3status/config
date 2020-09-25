@@ -7,6 +7,8 @@
 # If the above line is not correctly displayed, fix your editor first!
 
 general {
+    	output_format = "i3bar"
+    	separator = " "
         colors = false 
         interval = 5
 }
@@ -18,17 +20,17 @@ order += "volume master"
 order += "battery all"
 
 tztime local {
-        format = "%a %d %h, %l:%M:%P													"
+        format = "%a %d %h, %l:%M:%P															"
 }
 
 
 wireless _first_ {
-        format_up = ""
+        format_up = "  "
         format_down = ""
 }
 
 memory {
-        format = "%used | %available"
+        format = "%used "
         threshold_degraded = "1G"
         format_degraded = "MEMORY < %available"
 }
@@ -36,7 +38,7 @@ memory {
 
 volume master {
         format = " %volume  "
-        format_muted = "♪: muted (%volume)"
+        format_muted = " muted (%volume)"
         device = "pulse"
         mixer = "Master"
         mixer_idx = 0
@@ -45,10 +47,11 @@ volume master {
 battery all {
         format = "%status %percentage  "
 	format_down = "No battery"
-        status_chr = " CHR"
-        status_bat = "🔋 BAT"
+        status_chr = " CHR"
+        status_bat = " BAT"
         status_unk = "? UNK"
-        status_full = "☻ FULL"
+        status_full = " FULL"
 	low_threshold = 10
+	last_full_capacity = true
 }
 
