@@ -79,9 +79,6 @@ font pango:FontAwesome 9.5
 #Set mouse for left handed
 exec --no-startup-id xmodmap /home/carlos/.mouseconfig
 
-#Swap Caps Lock with Esc.
-exec_always  xmodmap /home/carlos/.speedswapper
-
 #Set latam keyboard
 exec_always setxkbmap latam
 
@@ -91,7 +88,7 @@ exec --no-startup-id xbacklight -set 5
 #
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
-exec --no-startup-id nm-applet
+#exec --no-startup-id nm-applet
 
 # Use pactl to adjust volume in PulseAudio.
 set $refresh_i3status killall -SIGUSR1 i3status
@@ -192,6 +189,10 @@ bindsym $mod+Shift+v exec urxvt -e  nvim .vimrc
 
 # Launch picom's config file.
 bindsym $mod+p exec urxvt -e  nvim .config/picom/picom.conf
+
+#Swap Caps Lock with Esc.
+bindsym $mod+Caps_Lock exec xmodmap /home/carlos/.speedswapper
+
 
 
 
