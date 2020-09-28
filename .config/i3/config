@@ -161,7 +161,7 @@ for_window [class="Xfce4-appfinder"] floating enable
 bindsym $mod+d exec rofi -show drun -show-icons -fake-transparency 
 
 #Use rofi as a window swithci
-bindsym $mod+Tab exec rofi -show window
+bindsym $mod+Tab exec rofi -show window -show-icons -fake-transperancy
 
 # Take a  full screen screenshot.
 bindsym $mod+Shift+s exec xfce4-screenshooter -f
@@ -352,7 +352,7 @@ mode "resize" {
 ######################################################################
 
 # Eliminate windows' borders.
-for_window [class=".*"] border pixel 3
+for_window [class=".*"] border pixel 2
 
 # Activate smart borders (always)
 smart_borders on
