@@ -332,6 +332,15 @@ globalkeys = gears.table.join(
                   }
               end,
               {description = "lua execute prompt", group = "awesome"}),
+
+
+  -- Brightness
+
+   awful.key({ }, "XF86MonBrightnessDown", function ()
+        awful.util.spawn("xbacklight -dec 5") end),
+   awful.key({ }, "XF86MonBrightnessUp", function ()
+        awful.util.spawn("xbacklight -inc 5") end),
+
     -- Menubar
     awful.key({ modkey }, "p", function() menubar.show() end,
               {description = "show the menubar", group = "launcher"})
@@ -545,5 +554,12 @@ beautiful.useless_gap = 5
 	awful.spawn.with_shell("pa-applet")
 	--Set Battery Applet
 	awful.spawn.with_shell("cbatticon")
-
+	--Set screen brigthness to 5%
+	awful.spawn.with_shell("xbacklight -set 5")
+	--Set keyboard to Latam
+	awful.spawn.with_shell("setxkbmap latam")
+	--Swap the "Esc" key and the "Caps Lock" key
+	awful.spawn.with_shell("xmodmmap .speedswapper")
+	--Set Mouse for left handed
+	awful.spawn.with_shell("xmodmap .mouseconfig")
 
