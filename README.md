@@ -1,4 +1,7 @@
-# Void-dots
+# Void-dots [Inactive]
+
+This repository is currently inactive as, for the time being, I have no interest in Void Linux. Its files will remain here for archival purposes only.
+
 
 Void Linux dot files. They are specially configured to work on my desktop environment, which is a hybrid between the Xfce desktop environment and the i3-gaps window manager. One may call it Xi3-gaps. 
 
