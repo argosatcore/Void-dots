@@ -50,8 +50,8 @@
 	alias svrc='source /home/carlos/.vimrc'
 	alias trim='sudo fstrim /'
 	alias screencast='ffmpeg -f x11grab -r 50 -s 1366x768 -i :0.0 -acodec aac -vcodec libx264 -crf 0 screencast.mkv'
-	alias sec='xmodmap /home/carlos/.speedswapper'
-	alias i3st='v /home/carlos/.config/i3status/config'
+	alias sec='xmodmap ~/.speedswapper'
+	alias i3st='v ~/.config/i3status/config'
 
 
 # enable color support of ls and also add handy aliases
@@ -107,7 +107,7 @@ fi
 #NNN's environmental variables:
 
 	#Bookmarks
-		export NNN_BMS='d:/home/carlos/Documents;u:/home/user/Cam Uploads;D:~/Downloads/'
+		export NNN_BMS='d:~/Documents;u:/home/user/Cam Uploads;D:~/Downloads/'
 
 	#Plugins
 		export NNN_PLUG='f:finder;o:fzopen;p:mocplay;d:dragdrop;t:nmount;v:preview-tui;z:fzcd'
